@@ -30,7 +30,7 @@ body {
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dc2424', endColorstr='#350060', GradientType=1 );
 }
 .paneTwo .content-container{
-	 background:#000000;
+	 background:#000000; /* Somehow plain colors work better here but it needs changes */
 	
 }
 .paneThree .content-container{
