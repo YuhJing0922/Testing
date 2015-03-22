@@ -1,0 +1,1543 @@
+
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=75ff60d174af47d7ea271d82d4fe1151"></script>
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js"><!--<![endif]-->
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+        <meta name="apple-itunes-app" content="app-id=305343404,affiliate-data=at=11l3M5&ct=us.itunes.uni.tumblr.ipdt,app-argument=tumblr://x-callback-url/blog?blogName=visions-of-the-past&referrer=smart-app-banner">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Jin's Corner of Wonders ❤</title>
+        
+        <meta name="description" content="❤ マレーシアからの愛のパワーをあなたに注入！ ❤ With Love ❤ From Malaysia NOW OPEN FOR: ★ ART/WRITING COMMISSIONS ★ ☆ Soon-to-be Final Year University Student ☆ Honored Bachelors in Software Engineering ☆ Has a passion in...">
+        
+        
+        
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <style type="text/css">figure {margin: 0;}</style>
+<link rel="shortcut icon" href="http://33.media.tumblr.com/avatar_acbc278fa866_128.png">
+        <link rel="apple-touch-icon-precomposed" href="http://33.media.tumblr.com/avatar_acbc278fa866_128.png">
+        <link rel="alternate" type="application/rss+xml" href="http://visions-of-the-past.tumblr.com/rss">
+
+        <link rel="stylesheet" href="http://static.tumblr.com/wdg4six/oAvn4uggx/normalize.css">
+        <link rel="stylesheet" href="http://static.tumblr.com/wdg4six/J1Yn86t5d/creativetree-icons.css">
+        <link rel="stylesheet" href="http://static.tumblr.com/wdg4six/iEEn9tpeq/square-main.css">
+        <link rel="stylesheet" href="http://static.tumblr.com/wofln30/FGGmyt1xp/colorbox.css">
+    
+        <style>
+            /* Colors */
+            body {
+                border: solid 8px #cab1da;
+                color: #6c517c;
+            }
+            
+            a {
+                color: #6c517c;
+            }
+            
+            .loading {
+                background-color: #cab1da;
+            }
+            
+            /* Custom CSS */
+            
+        </style>
+    
+        <script src="http://static.tumblr.com/wdg4six/fUCn4uglv/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        
+        
+    <link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=visions-of-the-past" />
+<script src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=129874daf82ea8718007ffa601fae0cb"></script>
+<link rel="stylesheet" type="text/css" href="http://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3">
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+<meta name="keywords" content="Yamazaki Sousuke,fml,Commision,ipad,tokyo ghoul" />
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:title" content="Jin&#039;s Corner of Wonders ❤" /><meta property="og:url" content="http://visions-of-the-past.tumblr.com/?og=1" /><meta property="og:description" content="❤ マレーシアからの愛のパワーをあなたに注入！ ❤ With Love ❤ From Malaysia NOW OPEN FOR: ★ ART/WRITING COMMISSIONS ★ ☆..." /><meta property="og:type" content="tumblr-feed:tumblelog" /><meta property="og:image" content="http://33.media.tumblr.com/avatar_acbc278fa866_128.png" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=visions-of-the-past" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=visions-of-the-past" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:site" content="tumblr" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="visions-of-the-past" /><meta name="twitter:description" content="❤ マレーシアからの愛のパワーをあなたに注入！ ❤&lt;br&gt;
+&lt;b&gt;With Love ❤ From Malaysia &lt;br&gt; &lt;br&gt;
+ NOW &lt;u&gt;OPEN&lt;/u&gt; FOR: &lt;br&gt; ★ &lt;strong&gt;&lt;u&gt;ART/WRITING COMMISSIONS&lt;/strong&gt;&lt;/u&gt; ★
+&lt;br&gt; &lt;br&gt;
+☆ Soon-to-be Final Year University Student &lt;br&gt;
+☆ Honored Bachelors in Software Engineering&lt;br&gt;
+☆ Has a passion in writing &lt;br&gt;
+☆ Loves drawing (and scribbling) ❤&lt;br&gt;
+☆ Speaks Chinese, English, and some Japanese&lt;br&gt;
+☆ OK with minor game translations&lt;br&gt;
+☆ Plays Japanese Otome Games&lt;br&gt;
+☆ Fan of Masato and Ranmaru from UtaPri &lt;br&gt;
+☆ Enjoys FFXIII (p/s: Fang&#039;s my favorite!)&lt;br&gt;
+☆ Plays Love Live &lt;i&gt; (Japanese ver.)&lt;/i&gt; &lt;br&gt;
+☆ Lily White = favorite!&lt;br&gt;
+&lt;br&gt;
+&lt;i&gt;Please be good to me! &lt;/i&gt; &lt;/b&gt; &lt;br&gt;" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=visions-of-the-past&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=visions-of-the-past&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=visions-of-the-past&amp;referrer=twitter-cards" />
+
+</head>
+    <body class="">
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        
+        
+    <div class="loading"></div>
+        
+    <div id="wrapper">
+        <div id="container" class="clearfix">
+    
+        <header class="wrapper clearfix"> <!-- Header -->
+            
+            <section id="blog-title">
+                <h1><a href="/">
+                    <img src="http://static.tumblr.com/27427c1ac9bd8f3451f7f588b0dfe467/xyd9sqw/WTvnj6lsh/tumblr_static_8yn4fhqbuqcc8w848ow00kwow.jpg"/>
+                    
+                </a></h1>
+            </section>
+            
+            
+            
+            <section id="description">
+                <h2>
+                    ❤ マレーシアからの愛のパワーをあなたに注入！ ❤<br>
+<b>With Love ❤ From Malaysia <br> <br>
+ NOW <u>OPEN</u> FOR: <br> ★ <strong><u>ART/WRITING COMMISSIONS</strong></u> ★
+<br> <br>
+☆ Soon-to-be Final Year University Student <br>
+☆ Honored Bachelors in Software Engineering<br>
+☆ Has a passion in writing <br>
+☆ Loves drawing (and scribbling) ❤<br>
+☆ Speaks Chinese, English, and some Japanese<br>
+☆ OK with minor game translations<br>
+☆ Plays Japanese Otome Games<br>
+☆ Fan of Masato and Ranmaru from UtaPri <br>
+☆ Enjoys FFXIII (p/s: Fang's my favorite!)<br>
+☆ Plays Love Live <i> (Japanese ver.)</i> <br>
+☆ Lily White = favorite!<br>
+<br>
+<i>Please be good to me! </i> </b> <br>
+                </h2>
+            </section>
+            
+        </header>
+        
+            <nav> <!-- nav -->
+                <ul id="menu">
+                    
+                        
+                        <li>
+                            <a href="/Commissions" class="page">My Commissions</a>
+                        </li>
+                        
+                    
+                    
+                        <li>
+                            <a href="/submit" class="submit">Submissions</a>
+                        </li>
+                    
+                    
+                        <li>
+                            <a href="/ask" class="ask">Ask me anything! ❤</a>
+                        </li>
+                    
+                    
+                </ul>
+            </nav> <!-- nav End -->
+
+        <main class="indexpage "> <!-- main -->
+                
+                <div class="grid-sizer"></div>
+
+                
+                <article class="link">
+                    
+                    <section class="post">
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <div class="link-wrapper">
+                            <h1>
+                                <a  href="http://shinomiofficial.tumblr.com/post/113760489941/lets-talk-about-mynoise-net" target="_blank">
+                                    Let&#039;s talk about mynoise.net
+                                    
+                                    <span class="link-host">shinomiofficial.tumblr.com</span>
+                                    
+                                </a>
+                            </h1>
+                        </div>
+                        
+                        <div class="caption">
+                            <p><a href="http://readysetgaikokujin.tumblr.com/post/113402435664/lets-talk-about-mynoise-net" class="tumblr_blog">readysetgaikokujin</a>:</p>
+<blockquote>
+<p><a href="http://vaudevillellain.tumblr.com/post/102816550218/lets-talk-about-mynoise-net" class="tumblr_blog">vaudevillellain</a>:</p>
+<blockquote>
+<p>Have you ever been listening to Rainymood and thought, &ldquo;Yeah, this is good &hellip; but it would be nice if I could customize the sound more, or if there was a little more choice.</p>
+<p>Let me introduce you to <a href="http://mynoise.net/">MyNoise</a>.</p>
+<p>MyNoise is a customizable sounscape looper&hellip;</p>
+</blockquote>
+</blockquote>
+
+
+<p>MUCH LOVE FOR THIS</p>
+                        </div>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <section class="post-meta">
+                            
+                                (Source: <a class="source-link" href="http://the-vaudevillain.tumblr.com/post/102816550218/lets-talk-about-mynoise-net">the-vaudevillain</a>)
+                            
+                        </section>
+                        <ul class="attribution-tags clearfix">
+                            <li class="reblog-icon"><span class="icon-loop"></span></li>
+                            <li class="reblog-parent"><a href="http://shinomiofficial.tumblr.com/post/113760489941/lets-talk-about-mynoise-net">shinomiofficial</a></li> 
+                        </ul>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <ul class="post-menu mobile">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/113762872857/lets-talk-about-mynoise-net"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/113762872857/ufu5stqc" class="reblog_button"style="display: block;width:18px;height:18px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="113762872857" id="like_button_113762872857"><iframe id="like_iframe_113762872857" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=113762872857&amp;color=black&amp;rk=ufu5stqc" scrolling="no" width="18" height="18" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+        	            
+                        <ul class="post-menu pc">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/113762872857/lets-talk-about-mynoise-net"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/113762872857/ufu5stqc" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="113762872857" id="like_button_113762872857"><iframe id="like_iframe_113762872857" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=113762872857&amp;color=black&amp;rk=ufu5stqc" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+                        
+                    </section> <!-- .post End -->
+                </article> <!-- article End -->
+        
+                
+                <article class="photo">
+                    
+                    <section class="post">
+                    
+                        
+                        
+                        
+                        <figure class="high-res with-caption">
+                            
+                                <a href="http://visions-of-the-past.tumblr.com/post/113757829827/tumblr-dashboard-blue"><img src="http://36.media.tumblr.com/605d7b62556087fdd1300ff1ba486695/tumblr_nf5lyeBDyD1r7ealro1_r3_500.png" alt="unwrapping:Tumblr Dashboard Blue is hex color code #36465d. That&rsquo;s very close to official Tumblr Blue, which is&nbsp;#35465c according to the Tumblr Logo page." width="500" height="696"></a>
+                            
+                            
+                            
+                                <figcaption class="caption" style="font-weight: bold">
+                                    <p><a href="http://unwrapping.tumblr.com/post/102823480892/tumblr-dashboard-blue" class="tumblr_blog">unwrapping</a>:</p><blockquote><p><b>Tumblr Dashboard Blue is hex color code #36465d.</b> That&rsquo;s very close to <a href="http://unwrapping.tumblr.com/post/91504567257/tumblr-blue-hex-code-color-35465c">official Tumblr Blue</a>, which is&nbsp;#35465c according to the <a href="https://www.tumblr.com/logo">Tumblr Logo page</a>.</p></blockquote>
+                                </figcaption>
+                            
+                        </figure>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <section class="post-meta">
+                            
+                        </section>
+                        <ul class="attribution-tags clearfix">
+                            <li class="reblog-icon"><span class="icon-loop"></span></li>
+                            <li class="reblog-parent"><a href="http://unwrapping.tumblr.com/post/102823480892/tumblr-dashboard-blue">unwrapping</a></li> 
+                        </ul>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <ul class="post-menu mobile">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/113757829827/tumblr-dashboard-blue"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/113757829827/prp7TjeX" class="reblog_button"style="display: block;width:18px;height:18px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="113757829827" id="like_button_113757829827"><iframe id="like_iframe_113757829827" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=113757829827&amp;color=black&amp;rk=prp7TjeX" scrolling="no" width="18" height="18" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+        	            
+                        <ul class="post-menu pc">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/113757829827/tumblr-dashboard-blue"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/113757829827/prp7TjeX" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="113757829827" id="like_button_113757829827"><iframe id="like_iframe_113757829827" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=113757829827&amp;color=black&amp;rk=prp7TjeX" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+                        
+                    </section> <!-- .post End -->
+                </article> <!-- article End -->
+        
+                
+                <article class="link">
+                    
+                    <section class="post">
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <div class="link-wrapper">
+                            <h1>
+                                <a  href="http://acesubido.com/post/83720832012/talk-about-career" target="_blank">
+                                    Talk about career...
+                                    
+                                    <span class="link-host">acesubido.com</span>
+                                    
+                                </a>
+                            </h1>
+                        </div>
+                        
+                        <div class="caption">
+                            <p><a href="http://acesubido.com/post/83720832012/talk-about-career" class="tumblr_blog">acesubido</a>:</p>
+
+<blockquote>
+<p>I&rsquo;ve always wanted to talk to students about the realities of the IT/Software Development industry, a talk that I would have loved to hear when I was a student. God gave me that chance through a friend of mine.</p> <p>I gave a talk entitled &ldquo;Career Paths: Story-based Career Planning&rdquo; for a host of&hellip;</p>
+</blockquote>
+                        </div>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <section class="post-meta">
+                            
+                        </section>
+                        <ul class="attribution-tags clearfix">
+                            <li class="reblog-icon"><span class="icon-loop"></span></li>
+                            <li class="reblog-parent"><a href="http://acesubido.com/post/83720832012/talk-about-career">acesubido</a></li> 
+                        </ul>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <ul class="post-menu mobile">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/113745734892/talk-about-career"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/113745734892/noH7Ubmm" class="reblog_button"style="display: block;width:18px;height:18px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="113745734892" id="like_button_113745734892"><iframe id="like_iframe_113745734892" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=113745734892&amp;color=black&amp;rk=noH7Ubmm" scrolling="no" width="18" height="18" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+        	            
+                        <ul class="post-menu pc">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/113745734892/talk-about-career"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/113745734892/noH7Ubmm" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="113745734892" id="like_button_113745734892"><iframe id="like_iframe_113745734892" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=113745734892&amp;color=black&amp;rk=noH7Ubmm" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+                        
+                    </section> <!-- .post End -->
+                </article> <!-- article End -->
+        
+                
+                <article class="audio">
+                    
+                    <section class="post">
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <div class="audio_container">
+                            
+                                <iframe class="tumblr_audio_player tumblr_audio_player_113048650617" src="http://visions-of-the-past.tumblr.com/post/113048650617/audio_player_iframe/visions-of-the-past/tumblr_nkvaswe1py1sg7sw3?audio_file=https%3A%2F%2Fwww.tumblr.com%2Faudio_file%2Fvisions-of-the-past%2F113048650617%2Ftumblr_nkvaswe1py1sg7sw3&color=white" frameborder="0" allowtransparency="true" scrolling="no" width="500" height="85"></iframe>
+                            
+                        </div>
+                        
+                        <div class="caption">
+                            <p><a href="http://hosoyan.co.vu/post/113018324780/special-white-day-messages-from-the-free-site" class="tumblr_blog">hosoyaan</a>:</p><blockquote><p>Special White Day Messages from the <a href="http://iwatobi-sc.com/#x-special">Free! site</a>.</p><p>Nanase Haruka (CV: Shimazaki Nobunaga)</p><blockquote>This is in return for the other day. Please accept this&hellip;. I also tried to make something handmade.<br></blockquote><p>Tachibana Makoto (CV: Suzuki Tatsuhisa)</p><blockquote>This is in return for Valentine&rsquo;s Day but&hellip; I&rsquo;m sorry that I couldn&rsquo;t make sweets.<br></blockquote><p>Matsuoka Rin (CV: Miyano Mamoru)</p><blockquote>The Valentine&rsquo;s (chocolate) you gave me&hellip; was delicious&hellip; I&rsquo;m giving this to you.<br></blockquote><p>Hazuki Nagisa (CV: Yonaga Tsubasa)</p><blockquote>Here! This is for you! This is in return for the other day! Even I can make something like this if I get serious enough!<br></blockquote><p>Ryugazaki Rei (CV: Hirakawa Daisuke)</p><blockquote>I&rsquo;m&hellip; giving this to you. It&rsquo;s in return for the other day&hellip; geez&hellip; I was really unsure what to repay you with!</blockquote></blockquote>
+
+<p>It&rsquo;s sad that I can&rsquo;t hear from Sousuke. Like&hellip; Why ;u;&nbsp;</p>
+                        </div>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <section class="post-meta">
+                            
+                        </section>
+                        <ul class="attribution-tags clearfix">
+                            <li class="reblog-icon"><span class="icon-loop"></span></li>
+                            <li class="reblog-parent"><a href="http://hosoyan.co.vu/post/113018324780/special-white-day-messages-from-the-free-site">hosoyaan</a></li> 
+                        </ul>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <ul class="post-menu mobile">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/113048650617/hosoyaan-special-white-day-messages-from-the"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/113048650617/4f1w7R6O" class="reblog_button"style="display: block;width:18px;height:18px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="113048650617" id="like_button_113048650617"><iframe id="like_iframe_113048650617" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=113048650617&amp;color=black&amp;rk=4f1w7R6O" scrolling="no" width="18" height="18" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+        	            
+                        <ul class="post-menu pc">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/113048650617/hosoyaan-special-white-day-messages-from-the"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/113048650617/4f1w7R6O" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="113048650617" id="like_button_113048650617"><iframe id="like_iframe_113048650617" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=113048650617&amp;color=black&amp;rk=4f1w7R6O" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+                        
+                    </section> <!-- .post End -->
+                </article> <!-- article End -->
+        
+                
+                <article class="text">
+                    
+                    <section class="post">
+                    
+                        
+                            <h1 class="post-title" ><a href="http://visions-of-the-past.tumblr.com/post/112577181102/how-to-fight-legacy-code">How to Fight Legacy Code</a></h1>
+                             
+                            <class="post-content" style="font-weight: bold"><p><a href="http://312development.tumblr.com/post/112571949565/how-to-fight-legacy-code" class="tumblr_blog">312development</a>:</p>
+
+<blockquote><p>A recipe on how to avoid producing legacy code by using a proper architecture and unit testing.<br><br>
+from CodeProject Latest Articles <a href="http://ift.tt/1KaUyUu">http://ift.tt/1KaUyUu</a><br>
+via <a href="http://ift.tt/18ufGjY">IFTTT</a></p></blockquote> </class>
+                            
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <section class="post-meta">
+                            
+                        </section>
+                        <ul class="attribution-tags clearfix">
+                            <li class="reblog-icon"><span class="icon-loop"></span></li>
+                            <li class="reblog-parent"><a href="http://312development.tumblr.com/post/112571949565/how-to-fight-legacy-code">312development</a></li> 
+                        </ul>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <ul class="post-menu mobile">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112577181102/how-to-fight-legacy-code"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112577181102/GE2so2Ya" class="reblog_button"style="display: block;width:18px;height:18px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112577181102" id="like_button_112577181102"><iframe id="like_iframe_112577181102" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112577181102&amp;color=black&amp;rk=GE2so2Ya" scrolling="no" width="18" height="18" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+        	            
+                        <ul class="post-menu pc">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112577181102/how-to-fight-legacy-code"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112577181102/GE2so2Ya" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112577181102" id="like_button_112577181102"><iframe id="like_iframe_112577181102" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112577181102&amp;color=black&amp;rk=GE2so2Ya" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+                        
+                    </section> <!-- .post End -->
+                </article> <!-- article End -->
+        
+                
+                <article class="video">
+                    
+                    <section class="post">
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                                                    
+                        <figure class="with-caption">
+                            <div class="video-wrapper">
+                                <iframe width="700" height="394" id="youtube_iframe" src="https://www.youtube.com/embed/qqqsOWQXbIE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allowfullscreen></iframe>
+                            </div>
+                            
+                            <figcaption class="caption">
+                                <p><a href="http://musicforprogramming.tumblr.com/post/112572346506/arterial-lusine" class="tumblr_blog">musicforprogramming</a>:</p>
+
+<blockquote><h2><i>Arterial</i> by <a href="http://www.lusineweb.com/">L&rsquo;usine</a></h2><p>From the <i>Arterial</i> EP (2014) on <a href="http://ghostly.com">Ghostly International</a>.</p></blockquote>
+                            </figcaption>
+                            
+                        </figure>
+                        
+                        
+                        
+                        
+                        
+                        
+                        <section class="post-meta">
+                            
+                        </section>
+                        <ul class="attribution-tags clearfix">
+                            <li class="reblog-icon"><span class="icon-loop"></span></li>
+                            <li class="reblog-parent"><a href="http://musicforprogramming.tumblr.com/post/112572346506/arterial-lusine">musicforprogramming</a></li> 
+                        </ul>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <ul class="post-menu mobile">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112577168837/musicforprogramming-arterial-by-lusine-from-the"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112577168837/vkOFIl6o" class="reblog_button"style="display: block;width:18px;height:18px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112577168837" id="like_button_112577168837"><iframe id="like_iframe_112577168837" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112577168837&amp;color=black&amp;rk=vkOFIl6o" scrolling="no" width="18" height="18" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+        	            
+                        <ul class="post-menu pc">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112577168837/musicforprogramming-arterial-by-lusine-from-the"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112577168837/vkOFIl6o" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112577168837" id="like_button_112577168837"><iframe id="like_iframe_112577168837" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112577168837&amp;color=black&amp;rk=vkOFIl6o" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+                        
+                    </section> <!-- .post End -->
+                </article> <!-- article End -->
+        
+                
+                <article class="text">
+                    
+                    <section class="post">
+                    
+                        
+                            <h1 class="post-title" ><a href="http://visions-of-the-past.tumblr.com/post/112577105817/programmer-problems">Programmer Problems </a></h1>
+                             
+                            <class="post-content" style="font-weight: bold"><p>Something went wrong, IDK why</p>
+
+<p>Everything went right, I still don&rsquo;t know why</p> </class>
+                            
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <ul class="post-menu mobile">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112577105817/programmer-problems"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112577105817/BWuOguOM" class="reblog_button"style="display: block;width:18px;height:18px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112577105817" id="like_button_112577105817"><iframe id="like_iframe_112577105817" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112577105817&amp;color=black&amp;rk=BWuOguOM" scrolling="no" width="18" height="18" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+        	            
+                        <ul class="post-menu pc">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112577105817/programmer-problems"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112577105817/BWuOguOM" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112577105817" id="like_button_112577105817"><iframe id="like_iframe_112577105817" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112577105817&amp;color=black&amp;rk=BWuOguOM" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+                        
+                    </section> <!-- .post End -->
+                </article> <!-- article End -->
+        
+                
+                <article class="photo">
+                    
+                    <section class="post">
+                    
+                        
+                        
+                        
+                        <figure class="high-res with-caption">
+                            
+                                <a href="http://visions-of-the-past.tumblr.com/post/112575849817/johanndro-i-give-you"><img src="http://41.media.tumblr.com/eae080ed90258a3db2ea0eccf944603f/tumblr_nklx4qDWcG1tvrj9xo1_500.jpg" alt="johanndro:i give you" width="500" height="403"></a>
+                            
+                            
+                            
+                                <figcaption class="caption" style="font-weight: bold">
+                                    <p><a href="http://johanndro.tumblr.com/post/112549918204/i-give-you" class="tumblr_blog">johanndro</a>:</p><blockquote><p>i give you</p></blockquote>
+                                </figcaption>
+                            
+                        </figure>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <section class="post-meta">
+                            
+                                (Source: <a class="source-link" href="http://johanndro.tumblr.com/post/112549918204/i-give-you">johanndro</a>)
+                            
+                        </section>
+                        <ul class="attribution-tags clearfix">
+                            <li class="reblog-icon"><span class="icon-loop"></span></li>
+                            <li class="reblog-parent"><a href="http://swimclubboys.tumblr.com/post/112575453957">swimclubboys</a></li> 
+                        </ul>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <ul class="post-menu mobile">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112575849817/johanndro-i-give-you"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112575849817/jzvDqYDF" class="reblog_button"style="display: block;width:18px;height:18px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112575849817" id="like_button_112575849817"><iframe id="like_iframe_112575849817" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112575849817&amp;color=black&amp;rk=jzvDqYDF" scrolling="no" width="18" height="18" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+        	            
+                        <ul class="post-menu pc">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112575849817/johanndro-i-give-you"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112575849817/jzvDqYDF" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112575849817" id="like_button_112575849817"><iframe id="like_iframe_112575849817" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112575849817&amp;color=black&amp;rk=jzvDqYDF" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+                        
+                    </section> <!-- .post End -->
+                </article> <!-- article End -->
+        
+                
+                <article class="photo">
+                    
+                    <section class="post">
+                    
+                        
+                        
+                        
+                        
+                        
+                        <figure class="photoset-grid-lightbox photoset with-caption" data-layout="111111" data-id="photoset112567523067">
+                            
+                            <img src="http://41.media.tumblr.com/43b6d5162a49d4015551aeee8f1e0894/tumblr_nkm7a08MXN1rqfhn5o3_500.jpg" data-highres="http://41.media.tumblr.com/43b6d5162a49d4015551aeee8f1e0894/tumblr_nkm7a08MXN1rqfhn5o3_1280.jpg" alt="Drawing of Whale Shark on iPad" />
+                            
+                            <img src="http://41.media.tumblr.com/d01cdc6af20bc8361aad309f072cf78b/tumblr_nkm7a08MXN1rqfhn5o1_500.jpg" data-highres="http://41.media.tumblr.com/d01cdc6af20bc8361aad309f072cf78b/tumblr_nkm7a08MXN1rqfhn5o1_1280.jpg" alt="Yamazaki Sousuke" />
+                            
+                            <img src="http://40.media.tumblr.com/7c3e2f28e8a63bf221331a91afd0df45/tumblr_nkm7a08MXN1rqfhn5o4_500.jpg" data-highres="http://41.media.tumblr.com/7c3e2f28e8a63bf221331a91afd0df45/tumblr_nkm7a08MXN1rqfhn5o4_1280.jpg" alt="Koi" />
+                            
+                            <img src="http://40.media.tumblr.com/f26f267b18f4611d077c0a0671672d2e/tumblr_nkm7a08MXN1rqfhn5o6_500.jpg" data-highres="http://40.media.tumblr.com/f26f267b18f4611d077c0a0671672d2e/tumblr_nkm7a08MXN1rqfhn5o6_1280.jpg" alt="Hijirikawa Masato" />
+                            
+                            <img src="http://41.media.tumblr.com/2e2d22c331a4797e3618221269e9b0f5/tumblr_nkm7a08MXN1rqfhn5o5_500.jpg" data-highres="http://40.media.tumblr.com/2e2d22c331a4797e3618221269e9b0f5/tumblr_nkm7a08MXN1rqfhn5o5_1280.jpg" alt="Koi" />
+                            
+                            <img src="http://41.media.tumblr.com/11116cfbbb3d94e9a55ca8c2a86c5759/tumblr_nkm7a08MXN1rqfhn5o2_500.jpg" data-highres="http://41.media.tumblr.com/11116cfbbb3d94e9a55ca8c2a86c5759/tumblr_nkm7a08MXN1rqfhn5o2_1280.jpg" alt="Panda" />
+                            
+                            
+                                <figcaption class="caption" style="font-weight: bold">
+                                    <p>I&rsquo;ve been drawing these from time to time, and I thought of uploading them here so that you will get an idea on how I draw, maybe? ;u;</p><p>I&rsquo;m open for commissions, so feel free to read the details <a href="http://visions-of-the-past.tumblr.com/post/112504700202/opening-for-commissions">here</a>!</p>
+                                </figcaption>
+                            
+                        </figure>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <ul class="post-menu mobile">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112567523067/ive-been-drawing-these-from-time-to-time-and-i"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112567523067/4cZWCQzI" class="reblog_button"style="display: block;width:18px;height:18px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112567523067" id="like_button_112567523067"><iframe id="like_iframe_112567523067" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112567523067&amp;color=black&amp;rk=4cZWCQzI" scrolling="no" width="18" height="18" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+        	            
+                        <ul class="post-menu pc">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112567523067/ive-been-drawing-these-from-time-to-time-and-i"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112567523067/4cZWCQzI" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112567523067" id="like_button_112567523067"><iframe id="like_iframe_112567523067" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112567523067&amp;color=black&amp;rk=4cZWCQzI" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+                        
+                    </section> <!-- .post End -->
+                </article> <!-- article End -->
+        
+                
+                <article class="photo">
+                    
+                    <section class="post">
+                    
+                        
+                        
+                        
+                        
+                        
+                        <figure class="photoset-grid-lightbox photoset with-caption" data-layout="111313" data-id="photoset112565735482">
+                            
+                            <img src="http://41.media.tumblr.com/d01e24b020176fa692e23d4a594367bc/tumblr_my5sgncWuC1sf4kg6o1_500.jpg" data-highres="http://41.media.tumblr.com/d01e24b020176fa692e23d4a594367bc/tumblr_my5sgncWuC1sf4kg6o1_1280.jpg"  />
+                            
+                            <img src="http://41.media.tumblr.com/7d0ed3becd42f154739ef47a82aea1ab/tumblr_my5sgncWuC1sf4kg6o8_500.png"   />
+                            
+                            <img src="http://41.media.tumblr.com/cc4599cf9cf63a9a4ecc1e0f8ba21b8b/tumblr_my5sgncWuC1sf4kg6o6_500.jpg" data-highres="http://36.media.tumblr.com/cc4599cf9cf63a9a4ecc1e0f8ba21b8b/tumblr_my5sgncWuC1sf4kg6o6_1280.jpg"  />
+                            
+                            <img src="http://40.media.tumblr.com/21c8cfa4d0cd3f85ca505dbf147d550f/tumblr_my5sgncWuC1sf4kg6o2_500.jpg" data-highres="http://36.media.tumblr.com/21c8cfa4d0cd3f85ca505dbf147d550f/tumblr_my5sgncWuC1sf4kg6o2_1280.jpg"  />
+                            
+                            <img src="http://40.media.tumblr.com/e8c00bb321bfe245f507ebaa4c49a385/tumblr_my5sgncWuC1sf4kg6o3_500.jpg" data-highres="http://40.media.tumblr.com/e8c00bb321bfe245f507ebaa4c49a385/tumblr_my5sgncWuC1sf4kg6o3_1280.jpg"  />
+                            
+                            <img src="http://40.media.tumblr.com/49f76939330ef3ae871620e63ea0fed9/tumblr_my5sgncWuC1sf4kg6o4_500.jpg" data-highres="http://40.media.tumblr.com/49f76939330ef3ae871620e63ea0fed9/tumblr_my5sgncWuC1sf4kg6o4_1280.jpg"  />
+                            
+                            <img src="http://41.media.tumblr.com/c1cafb0532f4de0a0ed31a79021c39a5/tumblr_my5sgncWuC1sf4kg6o9_500.png"   />
+                            
+                            <img src="http://40.media.tumblr.com/ba76b1b4376f408328a15aa2f2611f02/tumblr_my5sgncWuC1sf4kg6o5_500.jpg"   />
+                            
+                            <img src="http://40.media.tumblr.com/42c9c4a6b24e7009982b566339c0cde1/tumblr_my5sgncWuC1sf4kg6o7_500.jpg"   />
+                            
+                            <img src="http://41.media.tumblr.com/065aa337c4d4af32dcb317ddada96158/tumblr_my5sgncWuC1sf4kg6o10_500.jpg" data-highres="http://41.media.tumblr.com/065aa337c4d4af32dcb317ddada96158/tumblr_my5sgncWuC1sf4kg6o10_1280.jpg"  />
+                            
+                            
+                                <figcaption class="caption" style="font-weight: bold">
+                                    <p><a href="http://thelivingwiccan.tumblr.com/post/78022485372/pollymay-musical-chan-pilgrimkitty" class="tumblr_blog">thelivingwiccan</a>:</p><blockquote><p><a href="http://pollymay.tumblr.com/post/77595937187/musical-chan-pilgrimkitty" class="tumblr_blog">pollymay</a>:</p><blockquote><p><a href="http://musical-chan.tumblr.com/post/77566662842/pilgrimkitty-discovereternity-forget-me" class="tumblr_blog">musical-chan</a>:</p><blockquote><p><a href="http://pilgrimkitty.tumblr.com/post/77111105893/discovereternity-forget-me-not-my-favorite" class="tumblr_blog">pilgrimkitty</a>:</p><blockquote><p><a href="http://discovereternity.tumblr.com/post/70680908609/forget-me-not" class="tumblr_blog">discovereternity</a>:</p>
+<blockquote>
+<p><i>Forget me not</i></p>
+</blockquote>
+<p>My favorite thing about Forget-Me-Nots is that they change color depending on the acidity of the soil so you can get pink or purple ones growing right next to the blue ones.</p>
+</blockquote>
+<p>Pretty!</p>
+</blockquote>
+<p>These are my favourite flowers.</p>
+</blockquote>
+<p>Forget-me-nots also change colour after they become pollinated. It&rsquo;s a sign to the insects to keep moving, and not to waste time there.</p>
+<p>So a blue forget-me-not, once it&rsquo;s been pollinated, may change to a pale pink to a white colour; which is another reason for such stark colour variations in small areas.</p></blockquote>
+                                </figcaption>
+                            
+                        </figure>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <section class="post-meta">
+                            
+                                (Source: <a class="source-link" href="http://discovereternity.tumblr.com/post/70680908609/forget-me-not">discovereternity</a>)
+                            
+                        </section>
+                        <ul class="attribution-tags clearfix">
+                            <li class="reblog-icon"><span class="icon-loop"></span></li>
+                            <li class="reblog-parent"><a href="http://cynicowl.tumblr.com/post/112539355905/thelivingwiccan-pollymay-musical-chan">cynicowl</a></li> 
+                        </ul>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <ul class="post-menu mobile">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112565735482/thelivingwiccan-pollymay-musical-chan"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112565735482/IhKXo14o" class="reblog_button"style="display: block;width:18px;height:18px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112565735482" id="like_button_112565735482"><iframe id="like_iframe_112565735482" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112565735482&amp;color=black&amp;rk=IhKXo14o" scrolling="no" width="18" height="18" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+        	            
+                        <ul class="post-menu pc">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112565735482/thelivingwiccan-pollymay-musical-chan"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112565735482/IhKXo14o" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112565735482" id="like_button_112565735482"><iframe id="like_iframe_112565735482" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112565735482&amp;color=black&amp;rk=IhKXo14o" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+                        
+                    </section> <!-- .post End -->
+                </article> <!-- article End -->
+        
+                
+                <article class="photo">
+                    
+                    <section class="post">
+                    
+                        
+                        
+                        
+                        <figure class="high-res with-caption">
+                            
+                                <a href="http://visions-of-the-past.tumblr.com/post/112565185417/riaxa-by-permission-to-upload-this"><img src="http://40.media.tumblr.com/933901ab6ba20f3842e4fb0123c77002/tumblr_nklf0srXDW1sj6shmo1_500.jpg" alt="riaxa:ふりろぐ by &nbsp;ろにすけ※ Permission to upload this work was granted by the artist. 
+
+Because he is such a bae &amp;lt;3" width="500" height="691"></a>
+                            
+                            
+                            
+                                <figcaption class="caption" style="font-weight: bold">
+                                    <p><a href="http://riaxa.tumblr.com/post/112520182087/by-permission-to-upload-this-work" class="tumblr_blog">riaxa</a>:</p><blockquote><p><small><b><a href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=49057244">&#12405;&#12426;&#12429;&#12368;</a> by &nbsp;&#12429;&#12395;&#12377;&#12369;<small><b><br></b></small></b></small></p><p><small><b>&#8251; Permission to upload this work was granted by the artist. </b></small></p></blockquote>
+
+<p>Because he is such a bae &lt;3</p>
+                                </figcaption>
+                            
+                        </figure>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <section class="post-meta">
+                            
+                                (Source: <a class="source-link" href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=49057244">pixiv.net</a>)
+                            
+                        </section>
+                        <ul class="attribution-tags clearfix">
+                            <li class="reblog-icon"><span class="icon-loop"></span></li>
+                            <li class="reblog-parent"><a href="http://ssousuke.tumblr.com/post/112557897053/riaxa-by-permission-to-upload">ssousuke</a></li> 
+                        </ul>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <ul class="post-menu mobile">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112565185417/riaxa-by-permission-to-upload-this"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112565185417/RHxii8i4" class="reblog_button"style="display: block;width:18px;height:18px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112565185417" id="like_button_112565185417"><iframe id="like_iframe_112565185417" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112565185417&amp;color=black&amp;rk=RHxii8i4" scrolling="no" width="18" height="18" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+        	            
+                        <ul class="post-menu pc">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112565185417/riaxa-by-permission-to-upload-this"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112565185417/RHxii8i4" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112565185417" id="like_button_112565185417"><iframe id="like_iframe_112565185417" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112565185417&amp;color=black&amp;rk=RHxii8i4" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+                        
+                    </section> <!-- .post End -->
+                </article> <!-- article End -->
+        
+                
+                <article class="text">
+                    
+                    <section class="post">
+                    
+                        
+                            
+                             
+                            <class="post-content" style="font-weight: bold"><p><a href="http://william-sherlock-scott-watson.tumblr.com/post/108597975228/me-formally-emails-professor-and-proofreads" class="tumblr_blog">william-sherlock-scott-watson</a>:</p><blockquote><p>Me: *formally emails professor and proofreads about 28 times*</p><p>Professor: ok (Sent from iPhone)</p></blockquote><p>CAN ANYTHING BE MORE ACCURATE THAN THIS</p> </class>
+                            
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <section class="post-meta">
+                            
+                                (Source: <a class="source-link" href="http://william-sherlock-scott-watson.tumblr.com/post/108597975228/me-formally-emails-professor-and-proofreads">william-sherlock-scott-watson</a>)
+                            
+                        </section>
+                        <ul class="attribution-tags clearfix">
+                            <li class="reblog-icon"><span class="icon-loop"></span></li>
+                            <li class="reblog-parent"><a href="http://cynicowl.tumblr.com/post/112561266749/william-sherlock-scott-watson-me-formally">cynicowl</a></li> 
+                        </ul>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <ul class="post-menu mobile">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112564783897/william-sherlock-scott-watson-me-formally"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112564783897/S7QX5BD9" class="reblog_button"style="display: block;width:18px;height:18px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112564783897" id="like_button_112564783897"><iframe id="like_iframe_112564783897" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112564783897&amp;color=black&amp;rk=S7QX5BD9" scrolling="no" width="18" height="18" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+        	            
+                        <ul class="post-menu pc">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112564783897/william-sherlock-scott-watson-me-formally"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112564783897/S7QX5BD9" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112564783897" id="like_button_112564783897"><iframe id="like_iframe_112564783897" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112564783897&amp;color=black&amp;rk=S7QX5BD9" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+                        
+                    </section> <!-- .post End -->
+                </article> <!-- article End -->
+        
+                
+                <article class="link">
+                    
+                    <section class="post">
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <div class="link-wrapper">
+                            <h1>
+                                <a  href="http://codehelp.tumblr.com/post/19031951840/basic-codes" target="_blank">
+                                    Basic Codes
+                                    
+                                    <span class="link-host">codehelp.tumblr.com</span>
+                                    
+                                </a>
+                            </h1>
+                        </div>
+                        
+                        <div class="caption">
+                            <p><a href="http://codehelp.tumblr.com/post/19031951840/basic-codes" class="tumblr_blog">codehelp</a>:</p><blockquote><p><b>Bold</b></p>
+<blockquote>
+<ul><li>&lt;b&gt;<b>bold</b>&lt;/b&gt;</li>
+<li>&lt;strong&gt;<b>bold</b>&lt;/strong&gt;</li>
+</ul></blockquote>
+<p><i>Italic</i></p>
+<blockquote>
+<p>&lt;i&gt;<i>italics</i>&lt;/i&gt;</p>
+</blockquote>
+<p><strike>Strike</strike></p>
+<blockquote>
+<p>&lt;strike&gt;<strike>strike</strike>&lt;/strike&gt;</p>
+</blockquote>
+<p>Underline</p>
+<blockquote>
+<p>&lt;u&gt;underlined&lt;/u&gt;</p>
+</blockquote>
+<p>Link</p>
+<blockquote>
+<p>&lt;a href=&rdquo;http://<b>LINK URL HERE</b>"&gt;<b>text</b>&lt;/a&gt;</p>
+</blockquote>
+<ul><li>Change <b>LINK URL </b><b>HERE</b> to the link url</li>
+<li>Change<b> text </b>to what you want it to say</li>
+</ul><p>Image</p>
+<blockquote>
+<p>&lt;img&hellip;</p>
+</blockquote>
+</blockquote>
+
+<p>Some basic HTML codes.&nbsp;</p>
+                        </div>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <section class="post-meta">
+                            
+                        </section>
+                        <ul class="attribution-tags clearfix">
+                            <li class="reblog-icon"><span class="icon-loop"></span></li>
+                            <li class="reblog-parent"><a href="http://codehelp.tumblr.com/post/19031951840/basic-codes">codehelp</a></li> 
+                        </ul>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <ul class="post-menu mobile">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112560792912/basic-codes"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112560792912/yvTL6SkA" class="reblog_button"style="display: block;width:18px;height:18px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112560792912" id="like_button_112560792912"><iframe id="like_iframe_112560792912" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112560792912&amp;color=black&amp;rk=yvTL6SkA" scrolling="no" width="18" height="18" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+        	            
+                        <ul class="post-menu pc">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112560792912/basic-codes"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112560792912/yvTL6SkA" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112560792912" id="like_button_112560792912"><iframe id="like_iframe_112560792912" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112560792912&amp;color=black&amp;rk=yvTL6SkA" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+                        
+                    </section> <!-- .post End -->
+                </article> <!-- article End -->
+        
+                
+                <article class="video">
+                    
+                    <section class="post">
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                                                    
+                        <figure class="with-caption">
+                            <div class="video-wrapper">
+                                <iframe width="700" height="394" id="youtube_iframe" src="https://www.youtube.com/embed/4NflsSJL5B0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allowfullscreen></iframe>
+                            </div>
+                            
+                            <figcaption class="caption">
+                                <p>I don&rsquo;t know if someone has posted this on Tumblr, but I&rsquo;ve decided to share because it is so well-made! &lt;3&nbsp;</p><p>The only thing that lacks right now is definitely Mamo voicing as Mr. Grey. w</p><p><br></p><p>p/s: I am also open for art and writing commission, and you can read about it <a href="http://visions-of-the-past.tumblr.com/post/112504700202/opening-for-commissions">HERE</a>!</p>
+                            </figcaption>
+                            
+                        </figure>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <ul class="post-menu mobile">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112559677692/i-dont-know-if-someone-has-posted-this-on-tumblr"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112559677692/uE4ILK50" class="reblog_button"style="display: block;width:18px;height:18px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112559677692" id="like_button_112559677692"><iframe id="like_iframe_112559677692" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112559677692&amp;color=black&amp;rk=uE4ILK50" scrolling="no" width="18" height="18" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+        	            
+                        <ul class="post-menu pc">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112559677692/i-dont-know-if-someone-has-posted-this-on-tumblr"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112559677692/uE4ILK50" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112559677692" id="like_button_112559677692"><iframe id="like_iframe_112559677692" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112559677692&amp;color=black&amp;rk=uE4ILK50" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+                        
+                    </section> <!-- .post End -->
+                </article> <!-- article End -->
+        
+                
+                <article class="photo">
+                    
+                    <section class="post">
+                    
+                        
+                        
+                        
+                        <figure class="high-res with-caption">
+                            
+                                <a href="http://visions-of-the-past.tumblr.com/post/112518160747/yamazaki-sousuke-its-a-random-artwork-for-a-dear"><img src="http://40.media.tumblr.com/d01cdc6af20bc8361aad309f072cf78b/tumblr_nkldj3pvto1rqfhn5o1_500.jpg" alt=" Yamazaki Sousuke It&amp;#8217;s a random artwork for a dear friend of mine, megumi86. ❤She has been a really nice friend and helped me through thick and thin, and one of her muses are Sousuke so I&amp;#8217;m drawing this for her!&nbsp;It&amp;#8217;s drawn on iPad, so please forgive me. My fingers are not as good as most artists that I know. ;u; &nbsp;Which reminds me to tell you, my dear follower, or whoever came across this post, I&amp;#8217;m open for commissions! You can read more about it here and drop me a message anytime. ^^Note: Please, do NOT download and re-upload elsewhere without my consent.&nbsp;" width="500" height="500"></a>
+                            
+                            
+                            
+                                <figcaption class="caption" style="font-weight: bold">
+                                    <p>It&rsquo;s a random artwork for a dear friend of mine, <a href="http://tmblr.co/mZaLweUKDmOc7kywNzAKUUw">megumi86</a>. &#10084;</p><p>She has been a really nice friend and helped me through thick and thin, and one of her muses are Sousuke so I&rsquo;m drawing this for her!&nbsp;</p><p>It&rsquo;s drawn on iPad, so please forgive me. My fingers are not as good as most artists that I know. ;u; &nbsp;<br></p><p><br></p><p>Which reminds me to tell you, my dear follower, or whoever came across this post, I&rsquo;m open for commissions! You can read more about it <a href="http://visions-of-the-past.tumblr.com/post/112504700202/opening-for-commissions">here </a>and drop me a message anytime. ^^</p><p><br></p><p>Note: Please, do NOT download and re-upload elsewhere without my consent.&nbsp;</p>
+                                </figcaption>
+                            
+                        </figure>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <ul class="post-menu mobile">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112518160747/yamazaki-sousuke-its-a-random-artwork-for-a-dear"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112518160747/mKm2e09V" class="reblog_button"style="display: block;width:18px;height:18px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112518160747" id="like_button_112518160747"><iframe id="like_iframe_112518160747" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112518160747&amp;color=black&amp;rk=mKm2e09V" scrolling="no" width="18" height="18" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+        	            
+                        <ul class="post-menu pc">
+                            <li>
+                                <a href="http://visions-of-the-past.tumblr.com/post/112518160747/yamazaki-sousuke-its-a-random-artwork-for-a-dear"><span class="icon-link"></span></a>
+                            </li>
+        	                <li class="reblog-button"><a href="https://www.tumblr.com/reblog/112518160747/mKm2e09V" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></li>
+                            <li class="like-button"><div class="like_button" data-post-id="112518160747" id="like_button_112518160747"><iframe id="like_iframe_112518160747" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=1af0c0fbf0ad9b4dc38445698d099106#name=visions-of-the-past&amp;post_id=112518160747&amp;color=black&amp;rk=mKm2e09V" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true"></iframe></div></li>
+        	            </ul>
+                        
+                    </section> <!-- .post End -->
+                </article> <!-- article End -->
+        
+                
+                
+        
+        
+            <section id="pagination" class="clearfix">
+                
+                
+                <a href="/page/2" class="older"><strong>Older &rarr;</strong></a>
+                
+            </section>
+            
+        
+        
+        </main> <!-- main End -->
+        
+        <footer class="">
+            <small>&copy; Jin's Corner of Wonders ❤</small>
+            <!-- Not Delete Here -->
+            <div class="credit">
+                <small><a href="http://the-square-theme.tumblr.com/getthistheme">Square theme by Creativetree</a></small>
+            </div>
+            <!-- Not Delete Here -->
+            
+            <ul class="social-links clearfix">
+    			    
+    					<li><a href="yamashinajin.blogspot.com" target="_blank" title="Website"><i class="icon-screen"></i></a></li>
+    				
+    				
+    					<li><a href="https://twitter.com/NihonJIN_Janai" target="_blank" title="Twitter"><i class="icon-twitter"></i></a></li>
+    				
+    				
+    					<li><a href="https://www.facebook.com/UtaPuriMajiRabu" target="_blank" title="Facebook"><i class="icon-facebook"></i></a></li>
+    				
+    				
+    				
+    					<li><a href="instagram.com/jinjin0922" target="_blank" title="Instagram"><i class="icon-instagram"></i></a></li>
+    				
+    				
+    				
+    				
+    				
+    				
+    				
+    				
+    					<li><a href="mailto:yamashinajin0922@gmail.com" target="_blank" title="Email"><i class="icon-envelope"></i></a></li>
+    				
+    			</ul>
+        </footer>
+        
+        </div> <!-- #container -->
+    </div> <!-- #wrapper -->
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="http://static.tumblr.com/wdg4six/C5un4ugjv/jquery-1.11.0.min.js"><\/script>')</script>
+        
+        <script src="http://static.tumblr.com/wofln30/krAmywu6r/jquery.fitvids.js"></script>
+        <script>
+    	$(document).ready(function(){
+    		$(".video-wrapper, .audio_container").fitVids();						   
+    	});
+    	</script>
+        
+        <script src="http://static.tumblr.com/wofln30/2XXmyt1i0/jquery.colorbox.js"></script> 
+        <script src="http://static.tumblr.com/wofln30/lFrmyt0d1/jquery.photoset-grid.min.js"></script>
+        <script>
+        $('.photoset').photosetGrid({
+          highresLinks: true,
+          rel: 'withhearts-gallery',
+          gutter: '2px',
+    
+          onComplete: function(){
+            $('.photoset-grid-lightbox').attr('style', '');
+            $('.photoset-grid-lightbox a.photoset-cell').colorbox({
+              transition: "none",
+              photo: true,
+              scalePhotos: true,
+              maxHeight:'90%',
+              maxWidth:'90%'
+            });
+          }
+        });
+        </script>
+		
+		<script src="http://static.tumblr.com/wdg4six/FoRn5cxzf/classie.js"></script>
+		<script>
+        window.onload = function() {
+            $('.loading').css({ opacity: 0 });
+            $('#container').animate({ opacity: 1 });
+        }
+        </script>
+        
+        <script>
+            $(function () {
+                setNavigation();
+            });
+            
+            function setNavigation() {
+                var path = window.location.pathname;
+                path = path.replace(/\/$/, "");
+                path = decodeURIComponent(path);
+            
+                $("#menu a").each(function () {
+                    var href = $(this).attr('href');
+                    if (path.substring(0, href.length) === href) {
+                        $(this).closest('li').addClass('active');
+                    }
+                });
+            }
+        </script>
+        
+        <script src="http://static.tumblr.com/wdg4six/dcIn7ktrq/masonry.pkgd.min.js"></script>
+		<script src="http://static.tumblr.com/iwtk77u/Yhym2yygt/jquery.imagesloaded.min.js"></script>
+        <script>
+          $(function(){
+            var $tiles = $('.indexpage');
+            var flag;
+            var min_width = 500;
+            $tiles.imagesLoaded(function(){
+            function masonrySwitch() {
+            if ( $(window).innerWidth() < min_width ) {
+            if ( flag ) {
+              $('.indexpage').masonry('destroy');
+              flag = false;
+            }
+            } else {
+              $tiles.masonry({ itemSelector: 'article', isFitWidth: true });
+            flag = true;
+            }
+            }
+            $(function(){
+            masonrySwitch();
+            });
+            $(window).bind('resize',function(){
+            masonrySwitch();
+            });
+            });
+          });
+        </script>
+    <!-- BEGIN TUMBLR CODE --><iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+        var addthis_enabled = false;
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    postATMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    postATMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://secure.assets.tumblr.com/analytics.html?cd0bd711bd372599001af51ceb2e0aaf#" + 
+                              "http://visions-of-the-past.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/?route=%2F'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+        function postATMessage() {
+            if (addthis_enabled && analytics_iframe_loaded) {
+                analytics_frame.contentWindow.postMessage('enable_addthis', analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+    })();
+</script><script type="text/javascript">!function(s){s.src='https://www.tumblr.com/impixu?T=1426864513&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdmlzaW9ucy1vZi10aGUtcGFzdC50dW1ibHIuY29tXC8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIn0=&U=POGBPCOGEI&K=2c98d543445c6fceccd289050be37184641882db80b665245373a41f2f0635ac&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://www.tumblr.com/impixu?T=1426864513&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvdmlzaW9ucy1vZi10aGUtcGFzdC50dW1ibHIuY29tXC8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIiwibm9zY3JpcHQiOjF9&U=POGBPCOGEI&K=7fb62702766c8314682d8773824e1f924f1668453a2532a7b74914821df4d627&R="></noscript><script>
+        (function (w,d) {
+            'use strict';
+            var l = function(el, type, listener, useCapture) {
+                el.addEventListener ?
+                el.addEventListener(type, listener, !!useCapture) :
+                el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);
+            };
+            var a = function () {
+                                if (d.getElementById('tumblr-cdx')) {
+                    return;
+                }
+                var s = d.createElement('script');
+                var el = d.getElementsByTagName('script')[0];
+                s.async = true;
+                s.src = 'http://assets.tumblr.com/assets/scripts/vendor/cedexis/cedexis.radar.js?_v=11f8d88b61c2078aeb03413b4bd80357';
+                s.type = 'text/javascript';
+                s.id = 'tumblr-cdx';
+                d.body.appendChild(s);
+            };
+            l(w,'load',a);
+        }(window, document));
+</script><script type="text/javascript">!function(s){s.src='https://www.tumblr.com/impixu?T=1426864513&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3Zpc2lvbnMtb2YtdGhlLXBhc3QudHVtYmxyLmNvbVwvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcLyIsInBvc3RzIjpbeyJyb290X2Jsb2dpZCI6IjEzNTIxNDIzMiIsInJvb3RfcG9zdGlkIjoiMTAyODE2NTUwMjE4IiwicG9zdGlkIjoiMTEzNzYyODcyODU3IiwiYmxvZ2lkIjoiNDY0ODk0MjEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMzYzNTY4NzAiLCJyb290X3Bvc3RpZCI6IjEwMjgyMzQ4MDg5MiIsInBvc3RpZCI6IjExMzc1NzgyOTgyNyIsImJsb2dpZCI6IjQ2NDg5NDIxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjU4MjgyNzI1Iiwicm9vdF9wb3N0aWQiOiI4MzcyMDgzMjAxMiIsInBvc3RpZCI6IjExMzc0NTczNDg5MiIsImJsb2dpZCI6IjQ2NDg5NDIxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjEzMjgzMDU1OSIsInJvb3RfcG9zdGlkIjoiMTEzMDE4MzI0NzgwIiwicG9zdGlkIjoiMTEzMDQ4NjUwNjE3IiwiYmxvZ2lkIjoiNDY0ODk0MjEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMjE5NTQxMDU0Iiwicm9vdF9wb3N0aWQiOiIxMTI1NzE5NDk1NjUiLCJwb3N0aWQiOiIxMTI1NzcxODExMDIiLCJibG9naWQiOiI0NjQ4OTQyMSIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIxNzg4MDI0MTciLCJyb290X3Bvc3RpZCI6IjExMjU3MjM0NjUwNiIsInBvc3RpZCI6IjExMjU3NzE2ODgzNyIsImJsb2dpZCI6IjQ2NDg5NDIxIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxMTI1NzcxMDU4MTciLCJibG9naWQiOiI0NjQ4OTQyMSIsInNvdXJjZSI6MzN9XX0=&U=PDEOMIFPND&K=d36e04561cfbf6c60070d074835e7e740cd0ecf30dcebb302d6590291b3fe292&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://www.tumblr.com/impixu?T=1426864513&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3Zpc2lvbnMtb2YtdGhlLXBhc3QudHVtYmxyLmNvbVwvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcLyIsInBvc3RzIjpbeyJyb290X2Jsb2dpZCI6IjEzNTIxNDIzMiIsInJvb3RfcG9zdGlkIjoiMTAyODE2NTUwMjE4IiwicG9zdGlkIjoiMTEzNzYyODcyODU3IiwiYmxvZ2lkIjoiNDY0ODk0MjEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMzYzNTY4NzAiLCJyb290X3Bvc3RpZCI6IjEwMjgyMzQ4MDg5MiIsInBvc3RpZCI6IjExMzc1NzgyOTgyNyIsImJsb2dpZCI6IjQ2NDg5NDIxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjU4MjgyNzI1Iiwicm9vdF9wb3N0aWQiOiI4MzcyMDgzMjAxMiIsInBvc3RpZCI6IjExMzc0NTczNDg5MiIsImJsb2dpZCI6IjQ2NDg5NDIxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjEzMjgzMDU1OSIsInJvb3RfcG9zdGlkIjoiMTEzMDE4MzI0NzgwIiwicG9zdGlkIjoiMTEzMDQ4NjUwNjE3IiwiYmxvZ2lkIjoiNDY0ODk0MjEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMjE5NTQxMDU0Iiwicm9vdF9wb3N0aWQiOiIxMTI1NzE5NDk1NjUiLCJwb3N0aWQiOiIxMTI1NzcxODExMDIiLCJibG9naWQiOiI0NjQ4OTQyMSIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIxNzg4MDI0MTciLCJyb290X3Bvc3RpZCI6IjExMjU3MjM0NjUwNiIsInBvc3RpZCI6IjExMjU3NzE2ODgzNyIsImJsb2dpZCI6IjQ2NDg5NDIxIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxMTI1NzcxMDU4MTciLCJibG9naWQiOiI0NjQ4OTQyMSIsInNvdXJjZSI6MzN9XSwibm9zY3JpcHQiOjF9&U=PDEOMIFPND&K=8c7aa65f15bcf435182daea4129c219676ca03bf47d947dac9a1c69785559074&R="></noscript><script type="text/javascript">!function(s){s.src='https://www.tumblr.com/impixu?T=1426864513&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3Zpc2lvbnMtb2YtdGhlLXBhc3QudHVtYmxyLmNvbVwvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcLyIsInBvc3RzIjpbeyJyb290X2Jsb2dpZCI6IjE3NTE2OTI0MCIsInJvb3RfcG9zdGlkIjoiMTEyNTQ5OTE4MjA0IiwicG9zdGlkIjoiMTEyNTc1ODQ5ODE3IiwiYmxvZ2lkIjoiNDY0ODk0MjEiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMjU2NzUyMzA2NyIsImJsb2dpZCI6IjQ2NDg5NDIxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjEzMTAzNDY2NiIsInJvb3RfcG9zdGlkIjoiNzA2ODA5MDg2MDkiLCJwb3N0aWQiOiIxMTI1NjU3MzU0ODIiLCJibG9naWQiOiI0NjQ4OTQyMSIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIxMzc4MjMxNzkiLCJyb290X3Bvc3RpZCI6IjExMjUyMDE4MjA4NyIsInBvc3RpZCI6IjExMjU2NTE4NTQxNyIsImJsb2dpZCI6IjQ2NDg5NDIxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjcxMDEwMzMiLCJyb290X3Bvc3RpZCI6IjEwODU5Nzk3NTIyOCIsInBvc3RpZCI6IjExMjU2NDc4Mzg5NyIsImJsb2dpZCI6IjQ2NDg5NDIxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjM1NTUxMjkzIiwicm9vdF9wb3N0aWQiOiIxOTAzMTk1MTg0MCIsInBvc3RpZCI6IjExMjU2MDc5MjkxMiIsImJsb2dpZCI6IjQ2NDg5NDIxIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxMTI1NTk2Nzc2OTIiLCJibG9naWQiOiI0NjQ4OTQyMSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTEyNTE4MTYwNzQ3IiwiYmxvZ2lkIjoiNDY0ODk0MjEiLCJzb3VyY2UiOjMzfV19&U=MBFJFKJODE&K=b600d15a0e4d8b4403dd8a5a4fa65f805585aef0b7a9b2d832f42325e80ee07b&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://www.tumblr.com/impixu?T=1426864513&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3Zpc2lvbnMtb2YtdGhlLXBhc3QudHVtYmxyLmNvbVwvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcLyIsInBvc3RzIjpbeyJyb290X2Jsb2dpZCI6IjE3NTE2OTI0MCIsInJvb3RfcG9zdGlkIjoiMTEyNTQ5OTE4MjA0IiwicG9zdGlkIjoiMTEyNTc1ODQ5ODE3IiwiYmxvZ2lkIjoiNDY0ODk0MjEiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjExMjU2NzUyMzA2NyIsImJsb2dpZCI6IjQ2NDg5NDIxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjEzMTAzNDY2NiIsInJvb3RfcG9zdGlkIjoiNzA2ODA5MDg2MDkiLCJwb3N0aWQiOiIxMTI1NjU3MzU0ODIiLCJibG9naWQiOiI0NjQ4OTQyMSIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIxMzc4MjMxNzkiLCJyb290X3Bvc3RpZCI6IjExMjUyMDE4MjA4NyIsInBvc3RpZCI6IjExMjU2NTE4NTQxNyIsImJsb2dpZCI6IjQ2NDg5NDIxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjcxMDEwMzMiLCJyb290X3Bvc3RpZCI6IjEwODU5Nzk3NTIyOCIsInBvc3RpZCI6IjExMjU2NDc4Mzg5NyIsImJsb2dpZCI6IjQ2NDg5NDIxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjM1NTUxMjkzIiwicm9vdF9wb3N0aWQiOiIxOTAzMTk1MTg0MCIsInBvc3RpZCI6IjExMjU2MDc5MjkxMiIsImJsb2dpZCI6IjQ2NDg5NDIxIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxMTI1NTk2Nzc2OTIiLCJibG9naWQiOiI0NjQ4OTQyMSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTEyNTE4MTYwNzQ3IiwiYmxvZ2lkIjoiNDY0ODk0MjEiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=MBFJFKJODE&K=9dc37e52df006f2ed4e76472d9422c3b077107c189be9f162bfeba24bbe27078&R="></noscript><script>
+                (function() {
+                    var s = document.createElement('script');
+                    var el = document.getElementsByTagName('script')[0];
+                                            s.src = ('https:' == document.location.protocol ? 'https://s' : 'http://l') + '.yimg.com/ss/rapid-3.18.1.js';
+                                        s.onload = function(){
+                        var YAHOO = window.YAHOO;
+                        if (YAHOO) {
+                            var keys = {
+                                pd:'/',
+                                _li:0,
+                                b_id:46489421,
+                                i_rad:0,
+                                i_strm:0
+                            };
+                            var conf = {
+                                                                spaceid:1197716038,
+                                client_only:1,
+                                yql_enabled:false,
+                                keys:keys,
+                                nol:1
+                            };
+                            YAHOO.rapid = new YAHOO.i13n.Rapid(conf);
+                        }
+                    };
+                    el.parentNode.insertBefore(s, el);
+                })();
+            </script><script>
+        (function (w,d) {
+            'use strict';
+            var l = function(el, type, listener, useCapture) {
+                el.addEventListener ?
+                el.addEventListener(type, listener, !!useCapture) :
+                el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);
+            };
+            var a = function () {
+                                if (d.getElementById('tumblr-cdx')) {
+                    return;
+                }
+                var s = d.createElement('script');
+                var el = d.getElementsByTagName('script')[0];
+                s.async = true;
+                s.src = 'http://assets.tumblr.com/assets/scripts/vendor/cedexis/cedexis.radar.js?_v=11f8d88b61c2078aeb03413b4bd80357';
+                s.type = 'text/javascript';
+                s.id = 'tumblr-cdx';
+                d.body.appendChild(s);
+            };
+            l(w,'load',a);
+        }(window, document));
+</script><iframe id="tumblr_controls" class="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" src="https://secure.assets.tumblr.com/assets/html/iframe/o.html?_v=51383e8eeefe9dedf991efc12f2b5e22#src=http%3A%2F%2Fvisions-of-the-past.tumblr.com%2F&amp;lang=en_US&amp;name=visions-of-the-past&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_acbc278fa866_64.png&amp;title=Jin%26%23039%3Bs+Corner+of+Wonders+%E2%9D%A4&amp;url=http%3A%2F%2Fvisions-of-the-past.tumblr.com%2F&amp;page_slide=slide"></iframe><div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="http://assets.tumblr.com/assets/html/iframe/teaser.html?_v=731cf3f405ff856b742ec4ce0575fdcf#src=http%3A%2F%2Fvisions-of-the-past.tumblr.com%2F&amp;lang=en_US&amp;name=visions-of-the-past&amp;avatar=http%3A%2F%2F33.media.tumblr.com%2Favatar_acbc278fa866_64.png&amp;title=Jin%26%23039%3Bs+Corner+of+Wonders+%E2%9D%A4&amp;url=http%3A%2F%2Fvisions-of-the-past.tumblr.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div><script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls("http:\/\/assets.tumblr.com\/assets\/html\/iframe\/follow.html?_v=f6e6e3cae6bc67c0b49ef168ed875557");
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script><!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]--><!-- END TUMBLR CODE -->
+
+</body>
+</html>

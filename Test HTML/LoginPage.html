@@ -1,0 +1,134 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+		
+    	<title>Login - PixAlbums4U</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script type="text/javascript" src="http://demo.paper-leaf.com/alton/js/jquery.alton.js"></script>
+		<script src="//use.typekit.net/nka7dai.js"></script>
+		<script>try{Typekit.load();}catch(e){}</script>
+		<link rel="icon" href="http://demo.paper-leaf.com/alton/favicon1.png" type="image/png" />
+		<link rel="icon" sizes="192x192" href="http://demo.paper-leaf.com/alton/favicon1.png"/>
+		<link rel="stylesheet" href="bookendCSS.css">
+		<meta name="theme-color" content="#db2525">
+		<style>
+
+		</style>
+	</head>
+
+	 <body class="pageWrapper">
+	 	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N7WNS6"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-N7WNS6');</script>
+	 	<section class="header" style="height: 500px;">
+	 		<div class="spacing" style="height: 100%;">
+		 		<div class="content-container" id="login" style="height: 100%;">
+					<div class="wrapper darkText">
+						<div class="content center" >
+						<div class="loginsection">
+							<h1>PixAlbums4U</h1>
+							<h2>This site allows you to keep your photos into different albums.<br></h2>
+							<form method ="post" id="log-in">
+							<input id="username" name="login" placeholder="User Name" size="37"><br>
+                            <input id="password" name="login" placeholder="Password" size="37"><br><br>
+							<button type="submit">Login</button>
+							</div></form>
+							<h3>It's too simple for use, that it's too difficult to explain. So why not scroll down for more?</h3>
+						</div>
+						</div>
+					</div>
+				</div>
+			</div>
+	 	</section>
+		<section class="pane-container">
+			<div class="pane paneOne">
+				<div class="content-container">
+					<div class="wrapper lightText">
+						<div class="content left">
+							<h1>PixAlbums4U is so easy to use that it's hard to explain.</h1>
+							<h2>It is really, really simple to have your personal album to store your favorite and precious moments, however you want! </h2>
+						</div>
+						<div class="image-container right">
+							<img src="http://demo.paper-leaf.com/alton/imgs/logo.svg" />
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pane paneTwo">
+				<div class="content-container" style="background-image: url(../imgs/blurred-bg.jpg); background-size: cover;">
+					<div class="wrapper lightText">
+						<div class="content right">
+							<h1>PixAlbums4U is memories</h1>
+
+							<p>With simplicity, you can create your albums in any forms you would like to store every precious moment. That's is what we want everyone to have. We'll help you to keep your moments just as they are, that viewing your albums would be just the same as reminiscing it -- with a pleasing view.</p>
+						</div>
+						<div class="image-container left">
+							<img src="http://demo.paper-leaf.com/alton/imgs/screen-graphic.svg" />
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pane paneThree">
+				<div class="content-container">
+					<div class="wrapper darkText">
+						<div class="content left">
+							<h1>You already know how this works.</h1>
+							<p>Once you created your album, you can see them on your dashboard, and it is all solely belonged to you! Wanted to share with your friends? Through a link, you can share them with anyone you like!</p>
+						</div>
+						<div class="image-container right">
+							<img src="http://demo.paper-leaf.com/alton/imgs/options-graphic.svg" />
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pane paneFour">
+				<div class="content-container">
+					<div class="wrapper lightText">
+						<div class="content center">
+							<h1>Okay, it wasn't hard to explain at all.</h1>
+							<h2>We lied. But since you now understand the whole thing, come on in!<br><br><h2>
+							<a href="#login">Sign In</a>
+							<!-- Need Download Link -->
+							<a href="#signup">Sign Up</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="footer" style="height: 500px;">
+			<div class="spacing" style="height: 100%;"> 
+				<div class="content-container" style="height: 100%;">
+					<div class="wrapper darkText">
+						<div class="content center" id="signup">
+							<h1>Sign Up</h1>
+							<h2>Join us, and we'll show you a sight that you have never seen before.</h2>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+    </body>
+
+	
+		<script>
+			(function($) {
+				$(document).ready(function() {
+				    $(document).alton({
+				        fullSlideContainer: 'pane-container',
+				        singleSlideClass: 'pane',
+				        useSlideNumbers: true,
+				        slideNumbersBorderColor: '#fff',
+				        slideNumbersColor: 'transparent',
+				        bodyContainer: 'pageWrapper',
+				    });
+				});
+			})(jQuery);
+		</script>
+	</body>
+</html>
